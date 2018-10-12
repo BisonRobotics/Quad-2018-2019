@@ -1,0 +1,1 @@
+This repo will be for the Bison Robtoics Quad project 2018-2019. Specifically, we are developing a general autonomous Mini-Quad and then focusing our project to enter it into the VFS MAV Student Challenge 2019.
